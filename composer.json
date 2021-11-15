@@ -1,0 +1,13 @@
+{
+    "name": "arogga/api",
+    "description": "Arogga API",
+    "require": {
+        "nikic/fast-route": "1.3.0",
+        "firebase/php-jwt": "^5.0",
+        "guzzlehttp/guzzle": "^7.3",
+        "setasign/fpdf": "^1.8",
+        "elasticsearch/elasticsearch": "^7.9",
+        "ongr/elasticsearch-dsl": "^7.2",
+        "aws/aws-sdk-php": "^3.176"
+    }
+}
